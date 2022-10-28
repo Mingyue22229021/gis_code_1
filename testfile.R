@@ -11,3 +11,5 @@ y>8
 #added on github.com
 
 w >-1
+
+n=100
